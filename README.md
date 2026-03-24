@@ -33,7 +33,7 @@ A simple, interactive C++ console game designed to test your mental math skills 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Area-Calculator-Game.git
+    git clone https://github.com/gneYmar/Area-Calculator-Game.git
     ```
 
 2.  **Open in Code::Blocks:**
