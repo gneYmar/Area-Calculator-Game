@@ -99,14 +99,3 @@ Build & Run:  F9  (in Code::Blocks)
 | `<conio.h>` | Console input *(platform specific)* |
 | `<unistd.h>` | Sleep functions |
 
----
-
-<div align="center">
-
-### ⭐ If you enjoyed the game, consider giving it a star!
-
-<br/>
-
-Made with ❤️ and **C++** | Test your math — beat the clock!
-
-</div>
