@@ -54,7 +54,3 @@ A simple, interactive C++ console game designed to test your mental math skills 
     *   `<conio.h>` - Console input (platform specific)
     *   `<unistd.h>` - Sleep functions
 
-
----
-
-**Made with ❤️ using C++**
